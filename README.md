@@ -1,69 +1,54 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Amin Dariani
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+M.Sc. student in Automation and Control at RPTU Kaiserslautern, working on explainable and
+trustworthy machine learning. Research assistant at Fraunhofer IOSB; previously at DFKI.
 
-## 🚀 About Me
+My interest is in how explanations of model behaviour should be *evaluated* — measured for
+faithfulness and stability rather than judged by eye — and in applying that to perception
+systems that people actually have to trust. I came to this from robotics and control, and
+still work at that intersection.
 
-🎓 I'm Amin, a **Front End Web Developer** (specializing in **React Applications**).
+---
 
-👨‍💻 In 2019, I started learning programming and as I progressed, I started learning **javascript** and **React**. Thenafter, I worked with **Next.js**, **Progressive Web App (PWA)**, and many other front-end technologies. During years I learned that I have a knack for UX and am more drawn to the design aspect of the apps rather than whats going on in the back!
+### Currently
 
-🎸 As for my hobbies, well, I love **SCIENCE!** When it comes to **Physics**, **Math** and **Astronomy** Im all ears. In Humanities Im all for **Pscychology**, **Politics** and **Sociology** and ofcourse **History**. But you will usually find me interested in every new subject since Im a bit too curious to know everything. Sometimes you'll see me in the gym, at times attending music lessons and sometimes just drinking coffee and thinking about... well anything to be honest.
+- **M.Sc. thesis** — *A Comparative Evaluation of Explainable AI Methods for Graph Neural
+  Network-based Remaining Useful Life Prediction.* Comparing graph-native explainers
+  (GNNExplainer, PGExplainer) against feature attribution (SHAP, Integrated Gradients) on
+  C-MAPSS, scored on fidelity, stability and cross-model consistency.
+- **Fraunhofer IOSB**, Karlsruhe — explainable AI, with the Vision and Fusion Laboratory at KIT.
 
-📚 I cant say I love reading books but I try reading on subjects like **History**, **Psychology** & **Management**.
+### Selected work
 
+- **[Project_Lab_CAS](https://github.com/AminDaryan/Project_Lab_CAS)** — vision-guided
+  pick-and-place with a 7-DOF Franka Emika Panda. ROS, MoveIt/OMPL, custom-trained YOLOv5,
+  RealSense D455 depth-to-pose. Four-person project; I built the perception module.
+- **Eye movement classification from HoloLens 2 eye tracking** — master's project at DFKI.
+  Unity/MRTK/ARETT recording app, 10 participants across four industrial activities,
+  19 gaze features, seven classifiers compared. <!-- TODO: link the repo once it's public -->
 
-## 🛠️ Skills
+### Publication
 
+A. Amir-B.D., S. M. Tahamipour, A. Akbarzadeh. *Adaptive Tracking Control Based on GFHM for a
+Reconfigurable Lower Limb Exoskeleton.* ICRoM 2019.
+[doi:10.1109/ICRoM48714.2019.9071886](https://doi.org/10.1109/ICRoM48714.2019.9071886)
 
-### Languages
+---
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Elsewhere on this profile
 
+Several years of professional front-end work (React, Next.js, TypeScript) sit in the older
+repositories here, alongside SAP Cloud Application Programming work. It pays the bills and it
+taught me to ship, but it isn't where I'm headed.
 
-### Front-End Development
+### Outside of that
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Physics, maths and astronomy; psychology, sociology and history. Usually reading about
+whatever I got curious about last week. Otherwise at the gym, at a music lesson, or with a
+coffee somewhere.
 
+---
 
-## 🖥️ Workspace Setup
-
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminDaryan&show_icons=true&hide_border=true&count_private=true" alt="Amin's GitHub Stats">
-</div>
-
-## 🔬 Daily.dev Blogs
-
-<div align="center">
-<a href="https://app.daily.dev/AminTheOne"><img src="https://api.daily.dev/devcards/5513cf2a53c2492b8dd86089aa17e831.png?r=zrc" width="400" alt="Amin's Dev Card"/></a>
-</div>
-
-## 🔗 Links
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-daryan/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3B845a4727-e5ad-4621-b9ab-26dea005fef5)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/aminDaryan)
-
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+[ORCID](https://orcid.org/0009-0003-6226-2030) ·
+[LinkedIn](https://www.linkedin.com/in/amin-dariani/) ·
+[amindarian@gmail.com](mailto:amindarian@gmail.com)
